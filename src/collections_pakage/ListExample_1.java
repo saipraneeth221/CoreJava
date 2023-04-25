@@ -21,7 +21,7 @@ public class ListExample_1
 			System.out.println(it.next());
 		}
 		
-		System.out.println(".....................");
+		//System.out.println(".....................");
 		List<Integer> l1=new LinkedList<Integer>();
 		l1.add(10);
 		l1.add(21);
